@@ -5,4 +5,4 @@ WorldMapSVG is a repository containing a high-quality SVG file of a world map. T
 leftLongitude="-169.1110266" topLatitude="83.63001" rightLongitude="190.48712" bottomLatitude="-58.488473"
 ```
 
-![alt text](https://raw.githubusercontent.com/RedoxOwn/WorldMapSVG/main/snap.png)
+![alt text](https://raw.githubusercontent.com/RedoxOwn/WorldMapSVG/main/snap-image.png)
